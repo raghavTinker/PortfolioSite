@@ -6,7 +6,7 @@ title: Raghav Sharma
 superuser: true
 
 # Role/position/tagline
-role: Second year college student, DevOPs, automation and backend engineer
+role: DevOPs, Automation and Backend engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
