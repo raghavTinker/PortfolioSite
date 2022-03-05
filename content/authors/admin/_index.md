@@ -28,13 +28,6 @@ education:
   - course: Computer Science and Engineering
     institution: Thapar University, Patiala, India
     year: 2020-2024
-<!--
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008 -->
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,9 +40,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/raghavtinker
-<!-- - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
 - icon: github
   icon_pack: fab
   link: https://github.com/raghavTinker
