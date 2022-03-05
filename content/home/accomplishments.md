@@ -47,7 +47,14 @@ item:
   organization_url: https://www.coursera.org/
   title: 'The Bits and Bytes of Computer Networking'
   url: ""
-
+- certificate_url: https://www.udemy.com/certificate/UC-f5ce52de-df03-4d70-a523-c6d1961d9fd8/
+  date_end: "2021-07-31"
+  date_start: ""
+  description: ""
+  organization: Udemy
+  organization_url: https://udemy.com/
+  title: 'Docker and Kubernetes: The Complete Guide'
+  url: ""
 design:
   columns: '2' 
 ---
